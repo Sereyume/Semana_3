@@ -1,0 +1,30 @@
+h1{
+    color:black;
+    background-color: #D4E6F1;
+    font-size: xx-large
+}
+
+a{ 
+    color: #21618C;
+}
+
+img{
+    width: 200px;
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header{
+    background-color:aliceblue;
+}
+
+li{
+    list-style: none;
+}
+
+.img_cointerner img{
+border-radius: 10px;
+border: #5DADE2 3px solid;
+}
