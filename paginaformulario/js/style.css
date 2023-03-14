@@ -1,0 +1,9 @@
+body{
+    background-color:lightskyblue;
+}
+
+form{
+    background-color: lightblue;
+    border-width: 20px;
+    border-color: black;
+}
